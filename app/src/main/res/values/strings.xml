@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizGame1</string>
+    <string name="welcome_message">Welcome to Our Quiz Game!</string>
+    <string name="game_rules_intro">Welcome to the Ultimate Quiz Challenge! Here are the rules to get you started:</string>
+    <string name="game_rule_1">1. Each quiz consists of five questions covering various topics.</string>
+    <string name="game_rule_2">2. Questions will be in multiple-choice format, with only one correct answer per question.</string>
+    <string name="game_rule_3">3. Some questions may allow multiple answers. Read each question carefully.</string>
+    <string name="game_rule_4">4. Submit your answer by selecting the choice(s) and pressing the "Submit" button.</string>
+    <string name="game_rule_5">5. Each correct answer scores points. The total score will be displayed at the end of the quiz.</string>
+    <string name="game_rule_6">No penalties are given for incorrect answers, so guess away if you\'re unsure!</string>
+    <string name="game_rule_7">7. Your quiz history and scores will be saved, so you can track your progress over time.</string>
+    <string name="game_rule_closing">Best of luck, and may the quiz be with you!</string>
+</resources>
